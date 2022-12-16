@@ -1,0 +1,18 @@
+{
+  "field": [
+    "#####",
+    "#...#",
+    "#.S.#",
+    "#...#",
+    "#####"
+  ],
+
+  "initial_snake_length": 2,
+  "max_step_limit": 100,
+
+  "rewards": {
+    "timestep": 0,
+    "ate_fruit": 1,
+    "died": -1
+  }
+}
